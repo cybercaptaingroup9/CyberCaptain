@@ -30,6 +30,9 @@ Please click on below images for the marketing & business Video
 <img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/business%20image.jpg?raw=true" width="1400" height="520"> 
 </div>
 
+## SECTION 7 : MISCELLANEOUS
+Refer to Github Folder: Miscellaneous
 
+</div>
 
 
