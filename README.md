@@ -15,19 +15,19 @@ Our project is dedicated to carpooling by grouping student passengers from simil
 |   Full Name   |   Student ID  |                                      Work Items (Who Did What)                                                      |
 | ------------- | ------------- | --------------------------------------------------------------------------------------------------------------------|
 |   Feng Lei    |   A0261852A   |          clustering decision, Dijkstra algorithm, Chatbot and the related Front and backend works.                  |
-|  Han Kaiyang  | Content Cell  |          clustering decision, Dijkstra algorithm, Chatbot and the related Front and backend works.                  |
-|  Xu Binghui   | Content Cell  |          clustering decision, Dijkstra algorithm, Chatbot and the related Front and backend works.                  |
+|  Han Kaiyang  |   A0261622M   |          clustering decision, Dijkstra algorithm, Chatbot and the related Front and backend works.                  |
+|  Xu Binghui   |   A0262008N   |          clustering decision, Dijkstra algorithm, Chatbot and the related Front and backend works.                  |
 
 ## SECTION 4 : PROMOTIONAL / TECHNICAL SOLUTION VIDEO
 Please click on below images for the marketing & business Video
 ## Technical Video
 <div align=center>
-<img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/technical%20image.jpeg?raw=true" width="1400" height="500"> 
+<img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/technical%20image.jpeg?raw=true" width="1400" height="520"> 
 </div>
 
 ## Marketing Video
 <div align=center>
-<img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/business%20image.jpg?raw=true" width="1400" height="500"> 
+<img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/business%20image.jpg?raw=true" width="1400" height="520"> 
 </div>
 
 
