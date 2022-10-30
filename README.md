@@ -12,11 +12,11 @@ Due to the large number of students at NUS and the fact that the university dorm
 Our project is dedicated to carpooling by grouping student passengers from similar destinations together based on a clustering algorithm and then using the Dijkstra algorithm to figure out the shortest path. As the colleges are relatively far away, but the NUS bus route basically covers all colleges and utown, the default pick-up point for students was chosen as utown. The drop-off location is freely chosen by the passengers, but system will match the existing carpooling points by calculating the relative distance, so that system can give the user a station closer to his/her destination.
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
-|   Full Name   |   Student ID  | Work Items (Who Did What)  |     Email     |
-| ------------- | ------------- | -------------------------- | ------------- |
-|   Feng Lei    | Content Cell  |                            | Content Cell  |
-|  Han Kaiyang  | Content Cell  | Content Cell               | Content Cell  |
-|  Xu Binghui   | Content Cell  | Content Cell               | Content Cell  |
+|   Full Name   |   Student ID  |                                      Work Items (Who Did What)                                                      |
+| ------------- | ------------- | --------------------------------------------------------------------------------------------------------------------|
+|   Feng Lei    |   A0261852A   |          clustering decision, Dijkstra algorithm, Chatbot and the related Front and backend works.                  |
+|  Han Kaiyang  | Content Cell  |          clustering decision, Dijkstra algorithm, Chatbot and the related Front and backend works.                  |
+|  Xu Binghui   | Content Cell  |          clustering decision, Dijkstra algorithm, Chatbot and the related Front and backend works.                  |
 
 ## SECTION 4 : PROMOTIONAL / TECHNICAL SOLUTION VIDEO
 Please click on below images for the marketing & business Video
@@ -31,18 +31,4 @@ Please click on below images for the marketing & business Video
 </div>
 
 
-## Install
-download [Node.js](https://nodejs.org/en/download/)  
-`$ npm install`  
-  
-download [python3.6](https://www.python.org/downloads/release/python-360/)  
-`$ pip install -r requirements.txt`  
-
-## Error and Solution  
-In file:.\lib\site-packages\chatterbot\tagging.py  
-**Change** `yaml.load()` **to** `yaml.safe_load() `  
-  
-**Change** `self.nlp = spacy.load(self.language.ISO_639_1.lower())` **to**
-`if self.language.ISO_639_1.lower() == 'en': self.nlp = spacy.load('en_core_web_sm')  `
-`else: self.nlp = spacy.load(self.language.ISO_639_1.lower())`
 
