@@ -30,6 +30,11 @@ Please click on below images for the marketing & business Video
 <img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/business%20image.jpg?raw=true" width="1400" height="520"> 
 </div>
 
+## SECTION 5 : USER GUIDE
+https://github.com/cybercaptaingroup9/CyberCaptain/blob/main/User%20Guide/Installation%20%26%20User%20Guide_Team%20Cyber%20Captain.pdf
+
+## SECTION 6 : PROJECT REPORT / PAPER
+
 ## SECTION 7 : MISCELLANEOUS
 Refer to Github Folder: Miscellaneous
 https://github.com/cybercaptaingroup9/CyberCaptain/tree/main/Miscellaneous
