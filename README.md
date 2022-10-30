@@ -34,6 +34,7 @@ Please click on below images for the marketing & business Video
 https://github.com/cybercaptaingroup9/CyberCaptain/blob/main/User%20Guide/Installation%20%26%20User%20Guide_Team%20Cyber%20Captain.pdf
 
 ## SECTION 6 : PROJECT REPORT / PAPER
+https://github.com/cybercaptaingroup9/CyberCaptain/blob/main/Project%20Report/Project%20Report.pdf
 
 ## SECTION 7 : MISCELLANEOUS
 Refer to Github Folder: Miscellaneous
