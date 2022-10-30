@@ -32,7 +32,7 @@ Please click on below images for the marketing & business Video
 
 ## SECTION 7 : MISCELLANEOUS
 Refer to Github Folder: Miscellaneous
-
+https://github.com/cybercaptaingroup9/CyberCaptain/tree/main/Miscellaneous
 </div>
 
 
